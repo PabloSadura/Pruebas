@@ -1,0 +1,19 @@
+{
+  "name": "prueba_bootcamp",
+  "version": "1.0.0",
+  "description": "primer proyecto con open_bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "Hola este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloSadura/Pruebas.git"
+  },
+  "author": "pablo sadura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloSadura/Pruebas/issues"
+  },
+  "homepage": "https://github.com/PabloSadura/Pruebas#readme"
+}
