@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PabloSadura/Pruebas/issues"
   },
-  "homepage": "https://github.com/PabloSadura/Pruebas#readme"
+  "homepage": "https://github.com/PabloSadura/Pruebas#readme",
+  "dependencies": {
+    "cleave.js": "^1.6.0"
+  }
 }
